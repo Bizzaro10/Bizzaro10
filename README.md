@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Kiran S</h1>
-<h3 align="center">A "passionate" fullstack developer from India</h3>
+<h3 align="center">May the force be with you</h3>
 
 - Currently learning rust
 - 👨‍💻 All of my projects are available at [https://kiranshibiportfolio.netlify.app/](https://kiranshibiportfolio.netlify.app/)
